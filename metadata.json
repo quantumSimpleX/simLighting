@@ -1,0 +1,6 @@
+{
+  "name": "Rope Light Simulator",
+  "description": "An interactive physics simulation demonstrating gravity, tension, and suspension of a flexible, non-stretchable rope light on a metal bar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
