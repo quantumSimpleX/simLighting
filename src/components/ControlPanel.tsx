@@ -112,7 +112,7 @@ export const ControlPanel: React.FC<ControlPanelProps> = ({
             />
             <div className="flex justify-between text-[10px] text-slate-500 font-sans tracking-tight font-bold">
               <span>0% (Limp)</span>
-              <span>100% (Solid)</span>
+              <span>100% (Rigid)</span>
             </div>
           </div>
           
